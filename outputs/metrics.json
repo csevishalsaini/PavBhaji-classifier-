@@ -1,0 +1,22 @@
+{
+  "split": "stratified 75% train / 25% held-out test",
+  "random_state": 42,
+  "n_train": 339,
+  "n_test": 113,
+  "accuracy": 0.6372,
+  "pavbhaji_precision": 0.5362,
+  "pavbhaji_recall": 0.8043,
+  "pavbhaji_f1": 0.6435,
+  "roc_auc": 0.6463,
+  "confusion_matrix_rows_actual_0_1": [
+    [
+      35,
+      32
+    ],
+    [
+      9,
+      37
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\nnot_pavbhaji       0.80      0.52      0.63        67\n    pavbhaji       0.54      0.80      0.64        46\n\n    accuracy                           0.64       113\n   macro avg       0.67      0.66      0.64       113\nweighted avg       0.69      0.64      0.64       113\n"
+}

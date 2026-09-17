@@ -1,0 +1,51 @@
+feature,coefficient,direction
+caption hashtag_pavbhaji,1.1079992843084616,supports_pavbhaji
+tags tag_pavbhaji,1.0609172376488192,supports_pavbhaji
+pavbhaji,0.5970245626306144,supports_pavbhaji
+hashtag_foodlover,0.5796335477751396,supports_pavbhaji
+tag_foodlover,0.5796335477751396,supports_pavbhaji
+caption pavbhaji,0.5252677627046907,supports_pavbhaji
+follow,0.5117976536798859,supports_pavbhaji
+comments_log,0.4422657956723643,supports_pavbhaji
+caption cheese,0.3866151613927728,supports_pavbhaji
+me,0.36764230794465347,supports_pavbhaji
+has_pavbhaji_variant,0.3570409498687011,supports_pavbhaji
+hashtag_foodgasm,0.3540797124409641,supports_pavbhaji
+tag_foodgasm,0.3540797124409641,supports_pavbhaji
+hashtag_food hashtag_foodie,0.3450849415002172,supports_pavbhaji
+street,0.33417861915365726,supports_pavbhaji
+hashtag_foodfood,0.32516395514615193,supports_pavbhaji
+tag_foodfood,0.32516395514615193,supports_pavbhaji
+have,0.3177876519804569,supports_pavbhaji
+hashtag_pavbhaji hashtag_homemade,0.31441899877742274,supports_pavbhaji
+can,0.3122129620133726,supports_pavbhaji
+add,0.31192236447325206,supports_pavbhaji
+hashtag_,0.3026475720527724,supports_pavbhaji
+pav,0.30099185358749586,supports_pavbhaji
+where,0.2987550708302228,supports_pavbhaji
+hashtag_pav,0.29873417679989617,supports_pavbhaji
+our,-0.4929920145055914,supports_not_pavbhaji
+time,-0.4929062461785941,supports_not_pavbhaji
+caption dinner,-0.40462950628461514,supports_not_pavbhaji
+likes_log,-0.37082779847763336,supports_not_pavbhaji
+fondue,-0.3509776090149925,supports_not_pavbhaji
+tag_count,-0.3229731804286115,supports_not_pavbhaji
+hashtag_vadapav,-0.3118936810984581,supports_not_pavbhaji
+tag_vadapav,-0.3118936810984581,supports_not_pavbhaji
+hashtag_homemade hashtag_pavbhaji,-0.30329039344024117,supports_not_pavbhaji
+pavbhaji fondue,-0.28715303957943994,supports_not_pavbhaji
+hashtag_pavbhaji hashtag_food,-0.26719789071047606,supports_not_pavbhaji
+lazy,-0.2637763862815416,supports_not_pavbhaji
+its,-0.25761895668536805,supports_not_pavbhaji
+cooking,-0.2564688533770064,supports_not_pavbhaji
+hashtag_instagood,-0.25523560512222815,supports_not_pavbhaji
+hashtag_pavbhaji tags,-0.24748869782569596,supports_not_pavbhaji
+mouth,-0.24673815024139692,supports_not_pavbhaji
+all,-0.24125971586522385,supports_not_pavbhaji
+hashtag_pizza,-0.23740213642556504,supports_not_pavbhaji
+tag_pizza,-0.23740213642556504,supports_not_pavbhaji
+here,-0.2373214686103127,supports_not_pavbhaji
+tag_instagood,-0.23721839981657628,supports_not_pavbhaji
+hashtag_foodforlife,-0.23526551187634406,supports_not_pavbhaji
+tag_foodforlife,-0.23526551187634406,supports_not_pavbhaji
+hashtag_foodlovers,-0.23481324490084593,supports_not_pavbhaji
